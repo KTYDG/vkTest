@@ -1,4 +1,4 @@
-import _groups from "../../../groups.json"
+import _groups from "../../groups.json"
 import { FilterState } from "../App"
 
 export interface GetGroupsResponse {
